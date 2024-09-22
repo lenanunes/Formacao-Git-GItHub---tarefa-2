@@ -9,9 +9,6 @@ print(lista)
 
 lista.remove(13)
 print(lista)
-lista.pop(2)
-print(lista)
-
 
 l = [13, 39,112, 20, 27, 68] 
 if 20 in l :
